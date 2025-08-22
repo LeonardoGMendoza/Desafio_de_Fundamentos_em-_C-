@@ -12,3 +12,4 @@ C:\Users\fic\Desktop\Fundamentos-CSharp\BoletimViagem\Estruturas de repetição\
 C:\Users\fic\Desktop\Fundamentos-CSharp\BoletimViagem\Estruturas de repetição\obj\Debug\net8.0\Estruturas_de_repetição.pdb
 C:\Users\fic\Desktop\Fundamentos-CSharp\BoletimViagem\Estruturas de repetição\obj\Debug\net8.0\Estruturas_de_repetição.genruntimeconfig.cache
 C:\Users\fic\Desktop\Fundamentos-CSharp\BoletimViagem\Estruturas de repetição\obj\Debug\net8.0\ref\Estruturas_de_repetição.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\BoletimViagem\Estruturas de repetição\obj\Debug\net8.0\Estruturas_de_repetição.sourcelink.json

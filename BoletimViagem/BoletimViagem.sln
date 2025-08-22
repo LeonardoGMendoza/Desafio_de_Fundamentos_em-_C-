@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoletimViagem", "BoletimViagem\BoletimViagem.csproj", "{EA5CB93F-68A4-4014-87F2-04BB6AB99B42}"
 EndProject
@@ -36,6 +36,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaVariosNumeros", "MediaVariosNumeros\MediaVariosNumeros.csproj", "{6CE3098E-4E67-4EEE-9BE6-BFC941C9AA6E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estruturas_de_repetição", "Estruturas de repetição\Estruturas_de_repetição.csproj", "{743CA4C2-6D47-4DEB-8722-191BDC6189D2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "web", "web", "{1B234A7B-4361-4804-8F51-DD6D25A75740}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

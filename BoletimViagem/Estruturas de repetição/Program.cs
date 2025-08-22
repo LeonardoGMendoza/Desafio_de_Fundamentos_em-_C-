@@ -213,19 +213,33 @@
 
     static void SequenciaFibonacci()
     {
-        Console.Write("Quantos termos da sequência de Fibonacci deseja? ");
-        int termos = Convert.ToInt32(Console.ReadLine());
+    //Console.Write("Quantos termos da sequência de Fibonacci deseja? ");
+    //int termos = Convert.ToInt32(Console.ReadLine());
 
-        int a = 0, b = 1;
-        Console.Write("Sequência de Fibonacci: ");
-        for (int i = 0; i < termos; i++)
-        {
-            Console.Write(a + " ");
-            int temp = a;
-            a = b;
-            b = temp + b;
-        }
-        Console.WriteLine();
+    //int a = 0, b = 1;
+    //Console.Write("Sequência de Fibonacci: ");
+    //for (int i = 0; i < termos; i++)
+    //{
+    //    Console.Write(a + " ");
+    //    int temp = a;
+    //    a = b;
+    //    b = temp + b;
+    //}
+    //Console.WriteLine();
+
+    Console.WriteLine("Quantos termos voce deseja imprimir:");
+
+    int quantudadeTermos = Convert.ToInt32(Console.ReadLine());
+    int numeroAtual = 0;
+    int numeroAnterior = 1;
+    int intermediario = 0;
+
+    for (int i = 1; i >= quantudadeTermos; i++) {    
+`    Console.Write($"{numeroAtual}");
+        intermediario = numeroAtual;
+        numeroAtual = numeroAtual + numeroAnterior;
+        numeroAnterior = intermediario;
+
     }
 
     static void CacaNumero()
