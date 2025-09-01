@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\Fundamentos-CSharp\Atividade POO\Fundamentais\bin\Debug\net8.0\Fundamentais.exe
+C:\Users\fic\Desktop\Fundamentos-CSharp\Atividade POO\Fundamentais\bin\Debug\net8.0\Fundamentais.deps.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\Atividade POO\Fundamentais\bin\Debug\net8.0\Fundamentais.runtimeconfig.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\Atividade POO\Fundamentais\bin\Debug\net8.0\Fundamentais.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\Atividade POO\Fundamentais\bin\Debug\net8.0\Fundamentais.pdb
+C:\Users\fic\Desktop\Fundamentos-CSharp\Atividade POO\Fundamentais\obj\Debug\net8.0\Fundamentais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\Fundamentos-CSharp\Atividade POO\Fundamentais\obj\Debug\net8.0\Fundamentais.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\Atividade POO\Fundamentais\obj\Debug\net8.0\Fundamentais.AssemblyInfo.cs
+C:\Users\fic\Desktop\Fundamentos-CSharp\Atividade POO\Fundamentais\obj\Debug\net8.0\Fundamentais.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\Atividade POO\Fundamentais\obj\Debug\net8.0\Fundamentais.sourcelink.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\Atividade POO\Fundamentais\obj\Debug\net8.0\Fundamentais.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\Atividade POO\Fundamentais\obj\Debug\net8.0\refint\Fundamentais.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\Atividade POO\Fundamentais\obj\Debug\net8.0\Fundamentais.pdb
+C:\Users\fic\Desktop\Fundamentos-CSharp\Atividade POO\Fundamentais\obj\Debug\net8.0\Fundamentais.genruntimeconfig.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\Atividade POO\Fundamentais\obj\Debug\net8.0\ref\Fundamentais.dll
