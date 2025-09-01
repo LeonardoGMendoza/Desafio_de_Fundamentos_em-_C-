@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3040DC0B-3C70-4788-A7C0-C7E673F6D91F}|SomaDosElementos\\SomaDosElementos.csproj|c:\\users\\fic\\desktop\\fundamentos-csharp\\desafiofundamentoscsharp\\somadoselementos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3040DC0B-3C70-4788-A7C0-C7E673F6D91F}|SomaDosElementos\\SomaDosElementos.csproj|solutionrelative:somadoselementos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8C8F80-D927-4668-A097-18B0D6B47386}|MaiorEMenor\\MaiorEMenor.csproj|c:\\users\\fic\\desktop\\fundamentos-csharp\\desafiofundamentoscsharp\\maioremenor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8C8F80-D927-4668-A097-18B0D6B47386}|MaiorEMenor\\MaiorEMenor.csproj|solutionrelative:maioremenor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D44C6F-A271-40A9-AA31-DD0FAC7FA585}|Exerc\u00EDcioscomArrays\\Exerc\u00EDcioscomArrays.csproj|c:\\users\\fic\\desktop\\fundamentos-csharp\\desafiofundamentoscsharp\\exerc\u00EDcioscomarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D44C6F-A271-40A9-AA31-DD0FAC7FA585}|Exerc\u00EDcioscomArrays\\Exerc\u00EDcioscomArrays.csproj|solutionrelative:exerc\u00EDcioscomarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EFBDC6-AE98-4866-A04C-3A23D85BCC9E}|MenuFuncoes\\MenuFuncoes.csproj|c:\\users\\fic\\desktop\\fundamentos-csharp\\desafiofundamentoscsharp\\menufuncoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EFBDC6-AE98-4866-A04C-3A23D85BCC9E}|MenuFuncoes\\MenuFuncoes.csproj|solutionrelative:menufuncoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98D4C50-292D-4876-B74D-803A4EEB7B44}|MediaValores\\MediaValores.csproj|c:\\users\\fic\\desktop\\fundamentos-csharp\\desafiofundamentoscsharp\\mediavalores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98D4C50-292D-4876-B74D-803A4EEB7B44}|MediaValores\\MediaValores.csproj|solutionrelative:mediavalores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2171FB-B0FF-4756-871D-225517306EA4}|MenuArrays\\MenuArrays.csproj|c:\\users\\fic\\desktop\\fundamentos-csharp\\desafiofundamentoscsharp\\menuarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2171FB-B0FF-4756-871D-225517306EA4}|MenuArrays\\MenuArrays.csproj|solutionrelative:menuarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAEFF1B-2875-4ABC-BFDF-7D1279F40B1B}|ExerciciosArraysEFuncoes\\ExerciciosArraysEFuncoes.csproj|c:\\users\\fic\\desktop\\fundamentos-csharp\\desafiofundamentoscsharp\\exerciciosarraysefuncoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAEFF1B-2875-4ABC-BFDF-7D1279F40B1B}|ExerciciosArraysEFuncoes\\ExerciciosArraysEFuncoes.csproj|solutionrelative:exerciciosarraysefuncoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFCF238-9082-4CBC-83F2-5A852EC4CBE3}|02_OperadoresMatematicos\\02_OperadoresMatematicos.csproj|c:\\users\\fic\\desktop\\fundamentos-csharp\\desafiofundamentoscsharp\\02_operadoresmatematicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFCF238-9082-4CBC-83F2-5A852EC4CBE3}|02_OperadoresMatematicos\\02_OperadoresMatematicos.csproj|solutionrelative:02_operadoresmatematicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A2A07A-A238-43C3-9FB8-7332C51D37A2}|01_VariaveisEntradaSaida\\01_VariaveisEntradaSaida.csproj|c:\\users\\fic\\desktop\\fundamentos-csharp\\desafiofundamentoscsharp\\01_variaveisentradasaida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A2A07A-A238-43C3-9FB8-7332C51D37A2}|01_VariaveisEntradaSaida\\01_VariaveisEntradaSaida.csproj|solutionrelative:01_variaveisentradasaida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16BA30E-71DB-4C37-9A96-07BE29B6B059}|05_Arrays\\05_Arrays.csproj|c:\\users\\fic\\desktop\\fundamentos-csharp\\desafiofundamentoscsharp\\05_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16BA30E-71DB-4C37-9A96-07BE29B6B059}|05_Arrays\\05_Arrays.csproj|solutionrelative:05_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2946D8-B3D3-4FDF-914F-4DCB9A61595B}|06_Funcoes\\06_Funcoes.csproj|c:\\users\\fic\\desktop\\fundamentos-csharp\\desafiofundamentoscsharp\\06_funcoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2946D8-B3D3-4FDF-914F-4DCB9A61595B}|06_Funcoes\\06_Funcoes.csproj|solutionrelative:06_funcoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A655A-70C8-41D8-AF40-DAE90806DE40}|03_Condicionais\\03_Condicionais.csproj|c:\\users\\fic\\desktop\\fundamentos-csharp\\desafiofundamentoscsharp\\03_condicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A655A-70C8-41D8-AF40-DAE90806DE40}|03_Condicionais\\03_Condicionais.csproj|solutionrelative:03_condicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CE6170-9BAC-41DF-B80F-AAEF5652C27B}|07_ProjetoFinal_IntegrandoConceitos\\07_ProjetoFinal_IntegrandoConceitos.csproj|c:\\users\\fic\\desktop\\fundamentos-csharp\\desafiofundamentoscsharp\\07_projetofinal_integrandoconceitos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CE6170-9BAC-41DF-B80F-AAEF5652C27B}|07_ProjetoFinal_IntegrandoConceitos\\07_ProjetoFinal_IntegrandoConceitos.csproj|solutionrelative:07_projetofinal_integrandoconceitos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550C10E5-B0D8-4CE8-B919-33039F39B006}|04_EstruturasRepeticao\\04_EstruturasRepeticao.csproj|c:\\users\\fic\\desktop\\fundamentos-csharp\\desafiofundamentoscsharp\\04_estruturasrepeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550C10E5-B0D8-4CE8-B919-33039F39B006}|04_EstruturasRepeticao\\04_EstruturasRepeticao.csproj|solutionrelative:04_estruturasrepeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\Exerc\u00EDcioscomArrays\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcioscomArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\Exerc\u00EDcioscomArrays\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcioscomArrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:50:39.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\MenuFuncoes\\Program.cs",
+              "RelativeDocumentMoniker": "MenuFuncoes\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\MenuFuncoes\\Program.cs",
+              "RelativeToolTip": "MenuFuncoes\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:49:17.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\MediaValores\\Program.cs",
+              "RelativeDocumentMoniker": "MediaValores\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\MediaValores\\Program.cs",
+              "RelativeToolTip": "MediaValores\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:48:49.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\MaiorEMenor\\Program.cs",
+              "RelativeDocumentMoniker": "MaiorEMenor\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\MaiorEMenor\\Program.cs",
+              "RelativeToolTip": "MaiorEMenor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:48:03.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\SomaDosElementos\\Program.cs",
+              "RelativeDocumentMoniker": "SomaDosElementos\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\SomaDosElementos\\Program.cs",
+              "RelativeToolTip": "SomaDosElementos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:47:24.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\MenuArrays\\Program.cs",
+              "RelativeDocumentMoniker": "MenuArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\MenuArrays\\Program.cs",
+              "RelativeToolTip": "MenuArrays\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:45:14.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\ExerciciosArraysEFuncoes\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciciosArraysEFuncoes\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\ExerciciosArraysEFuncoes\\Program.cs",
+              "RelativeToolTip": "ExerciciosArraysEFuncoes\\Program.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAvwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:39:51.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\07_ProjetoFinal_IntegrandoConceitos\\Program.cs",
+              "RelativeDocumentMoniker": "07_ProjetoFinal_IntegrandoConceitos\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\07_ProjetoFinal_IntegrandoConceitos\\Program.cs",
+              "RelativeToolTip": "07_ProjetoFinal_IntegrandoConceitos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:07:20.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\06_Funcoes\\Program.cs",
+              "RelativeDocumentMoniker": "06_Funcoes\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\06_Funcoes\\Program.cs",
+              "RelativeToolTip": "06_Funcoes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:05:38.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\05_Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "05_Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\05_Arrays\\Program.cs",
+              "RelativeToolTip": "05_Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:04:58.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\04_EstruturasRepeticao\\Program.cs",
+              "RelativeDocumentMoniker": "04_EstruturasRepeticao\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\04_EstruturasRepeticao\\Program.cs",
+              "RelativeToolTip": "04_EstruturasRepeticao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:04:19.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\03_Condicionais\\Program.cs",
+              "RelativeDocumentMoniker": "03_Condicionais\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\03_Condicionais\\Program.cs",
+              "RelativeToolTip": "03_Condicionais\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:03:36.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\02_OperadoresMatematicos\\Program.cs",
+              "RelativeDocumentMoniker": "02_OperadoresMatematicos\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\02_OperadoresMatematicos\\Program.cs",
+              "RelativeToolTip": "02_OperadoresMatematicos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:03:02.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\01_VariaveisEntradaSaida\\Program.cs",
+              "RelativeDocumentMoniker": "01_VariaveisEntradaSaida\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\DesafioFundamentosCSharp\\01_VariaveisEntradaSaida\\Program.cs",
+              "RelativeToolTip": "01_VariaveisEntradaSaida\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:02:29.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

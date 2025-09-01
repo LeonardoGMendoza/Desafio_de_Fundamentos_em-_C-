@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\SomaDosElementos\bin\Debug\net8.0\SomaDosElementos.exe
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\SomaDosElementos\bin\Debug\net8.0\SomaDosElementos.deps.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\SomaDosElementos\bin\Debug\net8.0\SomaDosElementos.runtimeconfig.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\SomaDosElementos\bin\Debug\net8.0\SomaDosElementos.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\SomaDosElementos\bin\Debug\net8.0\SomaDosElementos.pdb
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\SomaDosElementos\obj\Debug\net8.0\SomaDosElementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\SomaDosElementos\obj\Debug\net8.0\SomaDosElementos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\SomaDosElementos\obj\Debug\net8.0\SomaDosElementos.AssemblyInfo.cs
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\SomaDosElementos\obj\Debug\net8.0\SomaDosElementos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\SomaDosElementos\obj\Debug\net8.0\SomaDosElementos.sourcelink.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\SomaDosElementos\obj\Debug\net8.0\SomaDosElementos.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\SomaDosElementos\obj\Debug\net8.0\refint\SomaDosElementos.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\SomaDosElementos\obj\Debug\net8.0\SomaDosElementos.pdb
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\SomaDosElementos\obj\Debug\net8.0\SomaDosElementos.genruntimeconfig.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\SomaDosElementos\obj\Debug\net8.0\ref\SomaDosElementos.dll

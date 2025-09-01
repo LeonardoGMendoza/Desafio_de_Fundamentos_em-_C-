@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{743CA4C2-6D47-4DEB-8722-191BDC6189D2}|Estruturas de repeti\u00E7\u00E3o\\Estruturas_de_repeti\u00E7\u00E3o.csproj|solutionrelative:estruturas de repeti\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1B234A7B-4361-4804-8F51-DD6D25A75740}|NewFolder1{1B234A7B-4361-4804-8F51-DD6D25A75740}|C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\BoletimViagem\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B234A7B-4361-4804-8F51-DD6D25A75740}|NewFolder1{1B234A7B-4361-4804-8F51-DD6D25A75740}|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5CB93F-68A4-4014-87F2-04BB6AB99B42}|BoletimViagem\\BoletimViagem.csproj|c:\\users\\fic\\desktop\\fundamentos-csharp\\boletimviagem\\boletimviagem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5CB93F-68A4-4014-87F2-04BB6AB99B42}|BoletimViagem\\BoletimViagem.csproj|solutionrelative:boletimviagem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E43AE8E4-A13A-4E3C-BBCD-C3EA0F3D6999}|VelocidadeVia\\VelocidadeVia.csproj|c:\\users\\fic\\desktop\\fundamentos-csharp\\boletimviagem\\velocidadevia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E43AE8E4-A13A-4E3C-BBCD-C3EA0F3D6999}|VelocidadeVia\\VelocidadeVia.csproj|solutionrelative:velocidadevia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,6 +47,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\BoletimViagem\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\BoletimViagem\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-22T14:32:00.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\BoletimViagem\\BoletimViagem\\Program.cs",
+              "RelativeDocumentMoniker": "BoletimViagem\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\BoletimViagem\\BoletimViagem\\Program.cs",
+              "RelativeToolTip": "BoletimViagem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T13:59:14.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\BoletimViagem\\VelocidadeVia\\Program.cs",
               "RelativeDocumentMoniker": "VelocidadeVia\\Program.cs",
@@ -46,21 +79,19 @@
               "RelativeToolTip": "VelocidadeVia\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T13:56:23.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T13:56:23.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VelocidadeVia",
+              "DocumentIndex": 4,
+              "Title": "VelocidadeVia.csproj",
               "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\BoletimViagem\\VelocidadeVia\\VelocidadeVia.csproj",
               "RelativeDocumentMoniker": "VelocidadeVia\\VelocidadeVia.csproj",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\BoletimViagem\\VelocidadeVia\\VelocidadeVia.csproj*",
-              "RelativeToolTip": "VelocidadeVia\\VelocidadeVia.csproj*",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\BoletimViagem\\VelocidadeVia\\VelocidadeVia.csproj",
+              "RelativeToolTip": "VelocidadeVia\\VelocidadeVia.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-22T13:56:15.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T13:56:15.532Z"
             },
             {
               "$type": "Document",
@@ -70,7 +101,7 @@
               "RelativeDocumentMoniker": "Estruturas de repeti\u00E7\u00E3o\\Program.cs",
               "ToolTip": "C:\\Users\\fic\\Desktop\\Fundamentos-CSharp\\BoletimViagem\\Estruturas de repeti\u00E7\u00E3o\\Program.cs",
               "RelativeToolTip": "Estruturas de repeti\u00E7\u00E3o\\Program.cs",
-              "ViewState": "AgIAAPMAAAAAAAAAAAAawP4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAIwPAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T13:48:05.897Z",
               "EditorCaption": ""

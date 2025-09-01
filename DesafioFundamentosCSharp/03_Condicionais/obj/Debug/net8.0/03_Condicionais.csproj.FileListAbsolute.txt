@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\03_Condicionais\bin\Debug\net8.0\03_Condicionais.exe
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\03_Condicionais\bin\Debug\net8.0\03_Condicionais.deps.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\03_Condicionais\bin\Debug\net8.0\03_Condicionais.runtimeconfig.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\03_Condicionais\bin\Debug\net8.0\03_Condicionais.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\03_Condicionais\bin\Debug\net8.0\03_Condicionais.pdb
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\03_Condicionais\obj\Debug\net8.0\03_Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\03_Condicionais\obj\Debug\net8.0\03_Condicionais.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\03_Condicionais\obj\Debug\net8.0\03_Condicionais.AssemblyInfo.cs
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\03_Condicionais\obj\Debug\net8.0\03_Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\03_Condicionais\obj\Debug\net8.0\03_Condicionais.sourcelink.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\03_Condicionais\obj\Debug\net8.0\03_Condicionais.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\03_Condicionais\obj\Debug\net8.0\refint\03_Condicionais.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\03_Condicionais\obj\Debug\net8.0\03_Condicionais.pdb
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\03_Condicionais\obj\Debug\net8.0\03_Condicionais.genruntimeconfig.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\03_Condicionais\obj\Debug\net8.0\ref\03_Condicionais.dll

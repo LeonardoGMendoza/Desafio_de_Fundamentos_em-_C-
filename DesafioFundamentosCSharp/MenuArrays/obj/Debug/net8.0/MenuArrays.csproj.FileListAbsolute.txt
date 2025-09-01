@@ -1,0 +1,5 @@
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\MenuArrays\obj\Debug\net8.0\MenuArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\MenuArrays\obj\Debug\net8.0\MenuArrays.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\MenuArrays\obj\Debug\net8.0\MenuArrays.AssemblyInfo.cs
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\MenuArrays\obj\Debug\net8.0\MenuArrays.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\MenuArrays\obj\Debug\net8.0\MenuArrays.sourcelink.json

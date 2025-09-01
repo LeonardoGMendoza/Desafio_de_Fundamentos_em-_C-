@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\Fundamentos-CSharp\ArrayseFuncoes\ArrayseFuncoes\bin\Debug\net8.0\ArrayseFuncoes.exe
+C:\Users\fic\Desktop\Fundamentos-CSharp\ArrayseFuncoes\ArrayseFuncoes\bin\Debug\net8.0\ArrayseFuncoes.deps.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\ArrayseFuncoes\ArrayseFuncoes\bin\Debug\net8.0\ArrayseFuncoes.runtimeconfig.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\ArrayseFuncoes\ArrayseFuncoes\bin\Debug\net8.0\ArrayseFuncoes.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\ArrayseFuncoes\ArrayseFuncoes\bin\Debug\net8.0\ArrayseFuncoes.pdb
+C:\Users\fic\Desktop\Fundamentos-CSharp\ArrayseFuncoes\ArrayseFuncoes\obj\Debug\net8.0\ArrayseFuncoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\Fundamentos-CSharp\ArrayseFuncoes\ArrayseFuncoes\obj\Debug\net8.0\ArrayseFuncoes.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\ArrayseFuncoes\ArrayseFuncoes\obj\Debug\net8.0\ArrayseFuncoes.AssemblyInfo.cs
+C:\Users\fic\Desktop\Fundamentos-CSharp\ArrayseFuncoes\ArrayseFuncoes\obj\Debug\net8.0\ArrayseFuncoes.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\ArrayseFuncoes\ArrayseFuncoes\obj\Debug\net8.0\ArrayseFuncoes.sourcelink.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\ArrayseFuncoes\ArrayseFuncoes\obj\Debug\net8.0\ArrayseFuncoes.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\ArrayseFuncoes\ArrayseFuncoes\obj\Debug\net8.0\refint\ArrayseFuncoes.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\ArrayseFuncoes\ArrayseFuncoes\obj\Debug\net8.0\ArrayseFuncoes.pdb
+C:\Users\fic\Desktop\Fundamentos-CSharp\ArrayseFuncoes\ArrayseFuncoes\obj\Debug\net8.0\ArrayseFuncoes.genruntimeconfig.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\ArrayseFuncoes\ArrayseFuncoes\obj\Debug\net8.0\ref\ArrayseFuncoes.dll

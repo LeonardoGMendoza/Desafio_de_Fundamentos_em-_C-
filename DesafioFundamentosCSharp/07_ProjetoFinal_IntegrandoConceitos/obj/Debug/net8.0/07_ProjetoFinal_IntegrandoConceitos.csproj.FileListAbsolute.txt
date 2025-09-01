@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\07_ProjetoFinal_IntegrandoConceitos\bin\Debug\net8.0\07_ProjetoFinal_IntegrandoConceitos.exe
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\07_ProjetoFinal_IntegrandoConceitos\bin\Debug\net8.0\07_ProjetoFinal_IntegrandoConceitos.deps.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\07_ProjetoFinal_IntegrandoConceitos\bin\Debug\net8.0\07_ProjetoFinal_IntegrandoConceitos.runtimeconfig.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\07_ProjetoFinal_IntegrandoConceitos\bin\Debug\net8.0\07_ProjetoFinal_IntegrandoConceitos.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\07_ProjetoFinal_IntegrandoConceitos\bin\Debug\net8.0\07_ProjetoFinal_IntegrandoConceitos.pdb
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\07_ProjetoFinal_IntegrandoConceitos\obj\Debug\net8.0\07_ProjetoFinal_IntegrandoConceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\07_ProjetoFinal_IntegrandoConceitos\obj\Debug\net8.0\07_ProjetoFinal_IntegrandoConceitos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\07_ProjetoFinal_IntegrandoConceitos\obj\Debug\net8.0\07_ProjetoFinal_IntegrandoConceitos.AssemblyInfo.cs
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\07_ProjetoFinal_IntegrandoConceitos\obj\Debug\net8.0\07_ProjetoFinal_IntegrandoConceitos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\07_ProjetoFinal_IntegrandoConceitos\obj\Debug\net8.0\07_ProjetoFinal_IntegrandoConceitos.sourcelink.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\07_ProjetoFinal_IntegrandoConceitos\obj\Debug\net8.0\07_ProjetoFinal_IntegrandoConceitos.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\07_ProjetoFinal_IntegrandoConceitos\obj\Debug\net8.0\refint\07_ProjetoFinal_IntegrandoConceitos.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\07_ProjetoFinal_IntegrandoConceitos\obj\Debug\net8.0\07_ProjetoFinal_IntegrandoConceitos.pdb
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\07_ProjetoFinal_IntegrandoConceitos\obj\Debug\net8.0\07_ProjetoFinal_IntegrandoConceitos.genruntimeconfig.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\07_ProjetoFinal_IntegrandoConceitos\obj\Debug\net8.0\ref\07_ProjetoFinal_IntegrandoConceitos.dll

@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\Fundamentos-CSharp\AtividadesArrays\AtividadesArrays\bin\Debug\net8.0\AtividadesArrays.exe
+C:\Users\fic\Desktop\Fundamentos-CSharp\AtividadesArrays\AtividadesArrays\bin\Debug\net8.0\AtividadesArrays.deps.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\AtividadesArrays\AtividadesArrays\bin\Debug\net8.0\AtividadesArrays.runtimeconfig.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\AtividadesArrays\AtividadesArrays\bin\Debug\net8.0\AtividadesArrays.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\AtividadesArrays\AtividadesArrays\bin\Debug\net8.0\AtividadesArrays.pdb
+C:\Users\fic\Desktop\Fundamentos-CSharp\AtividadesArrays\AtividadesArrays\obj\Debug\net8.0\AtividadesArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\Fundamentos-CSharp\AtividadesArrays\AtividadesArrays\obj\Debug\net8.0\AtividadesArrays.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\AtividadesArrays\AtividadesArrays\obj\Debug\net8.0\AtividadesArrays.AssemblyInfo.cs
+C:\Users\fic\Desktop\Fundamentos-CSharp\AtividadesArrays\AtividadesArrays\obj\Debug\net8.0\AtividadesArrays.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\AtividadesArrays\AtividadesArrays\obj\Debug\net8.0\AtividadesArrays.sourcelink.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\AtividadesArrays\AtividadesArrays\obj\Debug\net8.0\AtividadesArrays.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\AtividadesArrays\AtividadesArrays\obj\Debug\net8.0\refint\AtividadesArrays.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\AtividadesArrays\AtividadesArrays\obj\Debug\net8.0\AtividadesArrays.pdb
+C:\Users\fic\Desktop\Fundamentos-CSharp\AtividadesArrays\AtividadesArrays\obj\Debug\net8.0\AtividadesArrays.genruntimeconfig.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\AtividadesArrays\AtividadesArrays\obj\Debug\net8.0\ref\AtividadesArrays.dll

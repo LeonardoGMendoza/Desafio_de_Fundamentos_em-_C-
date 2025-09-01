@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\01_VariaveisEntradaSaida\bin\Debug\net8.0\01_VariaveisEntradaSaida.exe
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\01_VariaveisEntradaSaida\bin\Debug\net8.0\01_VariaveisEntradaSaida.deps.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\01_VariaveisEntradaSaida\bin\Debug\net8.0\01_VariaveisEntradaSaida.runtimeconfig.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\01_VariaveisEntradaSaida\bin\Debug\net8.0\01_VariaveisEntradaSaida.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\01_VariaveisEntradaSaida\bin\Debug\net8.0\01_VariaveisEntradaSaida.pdb
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\01_VariaveisEntradaSaida\obj\Debug\net8.0\01_VariaveisEntradaSaida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\01_VariaveisEntradaSaida\obj\Debug\net8.0\01_VariaveisEntradaSaida.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\01_VariaveisEntradaSaida\obj\Debug\net8.0\01_VariaveisEntradaSaida.AssemblyInfo.cs
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\01_VariaveisEntradaSaida\obj\Debug\net8.0\01_VariaveisEntradaSaida.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\01_VariaveisEntradaSaida\obj\Debug\net8.0\01_VariaveisEntradaSaida.sourcelink.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\01_VariaveisEntradaSaida\obj\Debug\net8.0\01_VariaveisEntradaSaida.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\01_VariaveisEntradaSaida\obj\Debug\net8.0\refint\01_VariaveisEntradaSaida.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\01_VariaveisEntradaSaida\obj\Debug\net8.0\01_VariaveisEntradaSaida.pdb
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\01_VariaveisEntradaSaida\obj\Debug\net8.0\01_VariaveisEntradaSaida.genruntimeconfig.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\01_VariaveisEntradaSaida\obj\Debug\net8.0\ref\01_VariaveisEntradaSaida.dll

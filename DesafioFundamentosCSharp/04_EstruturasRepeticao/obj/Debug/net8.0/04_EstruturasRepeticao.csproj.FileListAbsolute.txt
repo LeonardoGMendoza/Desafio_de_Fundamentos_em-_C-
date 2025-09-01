@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\04_EstruturasRepeticao\bin\Debug\net8.0\04_EstruturasRepeticao.exe
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\04_EstruturasRepeticao\bin\Debug\net8.0\04_EstruturasRepeticao.deps.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\04_EstruturasRepeticao\bin\Debug\net8.0\04_EstruturasRepeticao.runtimeconfig.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\04_EstruturasRepeticao\bin\Debug\net8.0\04_EstruturasRepeticao.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\04_EstruturasRepeticao\bin\Debug\net8.0\04_EstruturasRepeticao.pdb
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\04_EstruturasRepeticao\obj\Debug\net8.0\04_EstruturasRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\04_EstruturasRepeticao\obj\Debug\net8.0\04_EstruturasRepeticao.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\04_EstruturasRepeticao\obj\Debug\net8.0\04_EstruturasRepeticao.AssemblyInfo.cs
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\04_EstruturasRepeticao\obj\Debug\net8.0\04_EstruturasRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\04_EstruturasRepeticao\obj\Debug\net8.0\04_EstruturasRepeticao.sourcelink.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\04_EstruturasRepeticao\obj\Debug\net8.0\04_EstruturasRepeticao.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\04_EstruturasRepeticao\obj\Debug\net8.0\refint\04_EstruturasRepeticao.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\04_EstruturasRepeticao\obj\Debug\net8.0\04_EstruturasRepeticao.pdb
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\04_EstruturasRepeticao\obj\Debug\net8.0\04_EstruturasRepeticao.genruntimeconfig.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\04_EstruturasRepeticao\obj\Debug\net8.0\ref\04_EstruturasRepeticao.dll

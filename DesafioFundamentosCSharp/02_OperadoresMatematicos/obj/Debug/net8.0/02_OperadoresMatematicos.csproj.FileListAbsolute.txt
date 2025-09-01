@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\02_OperadoresMatematicos\bin\Debug\net8.0\02_OperadoresMatematicos.exe
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\02_OperadoresMatematicos\bin\Debug\net8.0\02_OperadoresMatematicos.deps.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\02_OperadoresMatematicos\bin\Debug\net8.0\02_OperadoresMatematicos.runtimeconfig.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\02_OperadoresMatematicos\bin\Debug\net8.0\02_OperadoresMatematicos.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\02_OperadoresMatematicos\bin\Debug\net8.0\02_OperadoresMatematicos.pdb
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\02_OperadoresMatematicos\obj\Debug\net8.0\02_OperadoresMatematicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\02_OperadoresMatematicos\obj\Debug\net8.0\02_OperadoresMatematicos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\02_OperadoresMatematicos\obj\Debug\net8.0\02_OperadoresMatematicos.AssemblyInfo.cs
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\02_OperadoresMatematicos\obj\Debug\net8.0\02_OperadoresMatematicos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\02_OperadoresMatematicos\obj\Debug\net8.0\02_OperadoresMatematicos.sourcelink.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\02_OperadoresMatematicos\obj\Debug\net8.0\02_OperadoresMatematicos.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\02_OperadoresMatematicos\obj\Debug\net8.0\refint\02_OperadoresMatematicos.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\02_OperadoresMatematicos\obj\Debug\net8.0\02_OperadoresMatematicos.pdb
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\02_OperadoresMatematicos\obj\Debug\net8.0\02_OperadoresMatematicos.genruntimeconfig.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\02_OperadoresMatematicos\obj\Debug\net8.0\ref\02_OperadoresMatematicos.dll

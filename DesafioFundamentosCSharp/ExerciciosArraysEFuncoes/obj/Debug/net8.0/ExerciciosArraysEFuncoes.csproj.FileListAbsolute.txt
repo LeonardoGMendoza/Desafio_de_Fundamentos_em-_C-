@@ -1,0 +1,5 @@
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\ExerciciosArraysEFuncoes\obj\Debug\net8.0\ExerciciosArraysEFuncoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\ExerciciosArraysEFuncoes\obj\Debug\net8.0\ExerciciosArraysEFuncoes.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\ExerciciosArraysEFuncoes\obj\Debug\net8.0\ExerciciosArraysEFuncoes.AssemblyInfo.cs
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\ExerciciosArraysEFuncoes\obj\Debug\net8.0\ExerciciosArraysEFuncoes.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\DesafioFundamentosCSharp\ExerciciosArraysEFuncoes\obj\Debug\net8.0\ExerciciosArraysEFuncoes.sourcelink.json
