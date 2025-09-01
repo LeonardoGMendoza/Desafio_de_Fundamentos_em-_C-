@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\Fundamentos-CSharp\Sistema_Bancario\Sistema_Bancario\bin\Debug\net8.0\Sistema_Bancario.exe
+C:\Users\fic\Desktop\Fundamentos-CSharp\Sistema_Bancario\Sistema_Bancario\bin\Debug\net8.0\Sistema_Bancario.deps.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\Sistema_Bancario\Sistema_Bancario\bin\Debug\net8.0\Sistema_Bancario.runtimeconfig.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\Sistema_Bancario\Sistema_Bancario\bin\Debug\net8.0\Sistema_Bancario.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\Sistema_Bancario\Sistema_Bancario\bin\Debug\net8.0\Sistema_Bancario.pdb
+C:\Users\fic\Desktop\Fundamentos-CSharp\Sistema_Bancario\Sistema_Bancario\obj\Debug\net8.0\Sistema_Bancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\Fundamentos-CSharp\Sistema_Bancario\Sistema_Bancario\obj\Debug\net8.0\Sistema_Bancario.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\Sistema_Bancario\Sistema_Bancario\obj\Debug\net8.0\Sistema_Bancario.AssemblyInfo.cs
+C:\Users\fic\Desktop\Fundamentos-CSharp\Sistema_Bancario\Sistema_Bancario\obj\Debug\net8.0\Sistema_Bancario.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\Sistema_Bancario\Sistema_Bancario\obj\Debug\net8.0\Sistema_Bancario.sourcelink.json
+C:\Users\fic\Desktop\Fundamentos-CSharp\Sistema_Bancario\Sistema_Bancario\obj\Debug\net8.0\Sistema_Bancario.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\Sistema_Bancario\Sistema_Bancario\obj\Debug\net8.0\refint\Sistema_Bancario.dll
+C:\Users\fic\Desktop\Fundamentos-CSharp\Sistema_Bancario\Sistema_Bancario\obj\Debug\net8.0\Sistema_Bancario.pdb
+C:\Users\fic\Desktop\Fundamentos-CSharp\Sistema_Bancario\Sistema_Bancario\obj\Debug\net8.0\Sistema_Bancario.genruntimeconfig.cache
+C:\Users\fic\Desktop\Fundamentos-CSharp\Sistema_Bancario\Sistema_Bancario\obj\Debug\net8.0\ref\Sistema_Bancario.dll
